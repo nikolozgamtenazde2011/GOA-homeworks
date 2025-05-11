@@ -1,0 +1,5 @@
+print(4+5)
+print(6-4)
+print(22/11)
+print(15//5)
+print(4*8)
