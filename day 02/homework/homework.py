@@ -18,13 +18,3 @@ number8=(11)
 print(number7/number8)
 
 
-#davaleba 2
-
-current_year=(2025)
-birth_year=(2011)
-age=current_year-birth_year
-print(age)
-
-
-#davaleba 3
-
