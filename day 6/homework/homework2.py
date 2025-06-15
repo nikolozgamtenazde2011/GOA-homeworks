@@ -1,0 +1,7 @@
+name=input("Enter your name: ")
+surname=input("Enter your surname: ")
+age=input("Enter your age: ")
+adress=input("Enter your address: ")
+hobby=input("Enter your hobby: ")
+fav_movie=input("Enter your favorite movie: ")
+print("hello im", name, surname, "and im", age, "years old", "i live in", adress, "my hobby is", hobby, "and my favorite movie is", fav_movie)

@@ -1,0 +1,6 @@
+number1=(23)
+number2=(46)
+number3=(number1+number2)
+number4=(number2/number1)
+number5=(55)
+average=int(number1,number2,number3,number4,number5)
