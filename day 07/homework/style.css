@@ -1,0 +1,15 @@
+
+.gray-element{
+ background-color: lightGray;
+}
+.text{
+    font-style: italic;
+
+}
+float-right{
+    float: right
+}
+div{
+    display:flex;
+    justify-content: space-between;
+}
