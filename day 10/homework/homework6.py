@@ -1,0 +1,7 @@
+name=input("Enter your name: ")
+surname=input("Enter your surname: ")
+age=input("Enter your age: ")
+adress=input("Enter your address: ")
+input("Enter your hobby: ")
+height=input("Enter your favorite heigt: ")
+print("hello im", name, surname, "and im", age, "years old", "i live in", adress, "and i am ", height, )

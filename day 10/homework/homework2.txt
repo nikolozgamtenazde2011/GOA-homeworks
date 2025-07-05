@@ -1,0 +1,2 @@
+Explicit Type Conversion ნიშნავს ხილულად შეცვლას 
+Implicit Type Conversion ნიშნავს უხილუდ შეცვლას
