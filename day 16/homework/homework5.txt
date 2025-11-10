@@ -1,0 +1,5 @@
+input type text-input-ში იწერება ტექსტი
+input type number-input-ში იწერება ყვე ნომერით
+input type password -input-ში იწერება პაროლი
+input type email -input-ში იწერება მეილი
+input type radio -input-ში ირჩევს ერთ-ერთ ვარიანტს
